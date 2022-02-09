@@ -14,3 +14,68 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Codeh4ck3r
+
+Pentester, Red Teamer, Life Long Learner.
+
+
+
+
+
+
+
+## 🚀 About Me
+
+
+
+
+Hi, I’m Sujit Suryawanshi From India. I Am Working As Penetration Tester At IBM Where My Day To Day Activities Includes Performing Penetration Testing Assessments On Web Applications, Mobile Applications, APIs, Network, Thick Clients.
+
+
+
+
+
+
+
+
+
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codeh4ck3r.github.io/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeh4ck3r/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_codeh4ck3r)
+
+
+
+
+
+
+
+## 🛠 Some Of My Top Skills Are:
+
+- Web Application Penetration Testing (Automated, Manual)
+
+- Android Application Penetration Testing (Static, Dynamic)
+
+- API Penetration Testing
+
+- Network Penetration Testing
+
+- Source Code Review
+
+- Thick Client Pentesting
+
+- Red Teaming
+
+- Automating Security Tasks & Workflows
+
+
+
+
+### I Do Freelance Work, If You Have Requirement Then Please Drop Email sujitsuryawanshi987@gmail.com Or Ping Me On [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
