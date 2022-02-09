@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-# Codeh4ck3r
-
-Pentester, Red Teamer, Life Long Learner.
 
 
+
+
+Hi, I’m Sujit Suryawanshi From India. I Am Working As Penetration Tester At IBM Where My Day To Day Activities Includes Performing Penetration Testing Assessments On Web Applications, Mobile Applications, APIs, Network, Thick Clients.
 
 
 
@@ -29,10 +29,7 @@ Pentester, Red Teamer, Life Long Learner.
 
 ## 🚀 About Me
 
-
-
-
-Hi, I’m Sujit Suryawanshi From India. I Am Working As Penetration Tester At IBM Where My Day To Day Activities Includes Performing Penetration Testing Assessments On Web Applications, Mobile Applications, APIs, Network, Thick Clients.
+Pentester, Red Teamer, Life Long Learner.
 
 
 
