@@ -29,7 +29,7 @@ I’m Sujit Suryawanshi From India. I Am Working As Penetration Tester At IBM Wh
 
 ## 🚀 About Me
 
-Pentester, Red Teamer, Life Long Learner.
+Hacker, Pentester, Red Teamer, Life Long Learner.
 
 
 
