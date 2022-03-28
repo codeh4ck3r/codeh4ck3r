@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-Sujit Suryawanshi is Informational Security Professional With a Strong Interest and Knowledge in Ethical Hacking, Penetration Testing, Vulnerability Assessment. Actively Working in IBM as Pentester Which Includes Day to Day Activities Such as SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing) Assessments on SaaS (Software as a Service), IaaS (Infrastructure as a Service), PaaS (Infrastructure as a Service) Application Including Web Applications, Mobile Applications, APIs, Network and Thick Clients.
+Sujit Suryawanshi is Informational Security Professional With a Strong Interest and Knowledge in Ethical Hacking, Penetration Testing, Vulnerability Assessment. Actively Working in IBM as Pentester and Performs Day to Day Activities Such as SAST (Static Application Security Testing), DAST (Dynamic Application Security Testing) Assessments on SaaS (Software as a Service), IaaS (Infrastructure as a Service), PaaS (Infrastructure as a Service) Application Including Web Applications, Mobile Applications, APIs, Network and Thick Clients.
 
 
 
