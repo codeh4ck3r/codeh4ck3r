@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 <!--
 **codeh4ck3r/codeh4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
