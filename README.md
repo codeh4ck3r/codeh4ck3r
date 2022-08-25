@@ -66,9 +66,11 @@ Hacker, Pentester, Red Teamer, Life Long Learner.
 
 - Thick Client Pentesting
 
-- Red Teaming
+- Red Team Engagement 
 
 - Automating Security Tasks & Workflows
+
+- Threat Modeling (STRIDE, PASTA)
 
 
 
