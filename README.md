@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 
 
-Myself Sujit Suryawanshi and I'm an Informational Security Professional With a Strong Interest and Knowledge in Ethical Hacking, Penetration Testing, Vulnerability Assessment, Infrastructure Security. Actively Working in IBM as Pentester and Performing Penetration Testing, Vulnerability Assessment on SaaS, IaaS Applications Including Web Applications, Mobile Applications, APIs, Network and Thick Clients.
+Myself Sujit Suryawanshi and I'm an Informational Security Professional Having 4+ Years of Experience With a Strong Interest and Knowledge in Ethical Hacking, Penetration Testing, Vulnerability Assessment, Network Security. Actively Working in IBM as Penetration Tester Which Includes Day to Day Activities Such as Penetration Testing of Web Applications, Services and Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST) Assessments on Applications Hosted on Cloud Platforms Such as SaaS (Software as a Service) Applications Which Includes Web Applications, Mobile Applications, APIs, Network and Thick Clients.
+
+Thorough Understanding of Application Security Processes, Standards, Source Code Review (PHP, JavaScript, NodeJS), Security Best Practices, and Policies
+
+Knowledge in Information Security Strategy, Risk Assessments, Security Architecture, Strategic Documentation, Penetration Testing (Web & Infra), Network Audits, Code Reviews, Threat Management, Threat Modeling Etc
 
 
 
