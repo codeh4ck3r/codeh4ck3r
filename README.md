@@ -53,7 +53,7 @@ Hacker | Penetration Tester | VAPT | Application Security (Offensive) | CTF Play
 
 
 
-## 🛠 Some Of My Top Skills Are:
+## 🛠 Some of My Top Skills Are:
 
 - Web Application Penetration Testing (Automated, Manual)
 
