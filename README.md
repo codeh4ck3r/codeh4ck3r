@@ -31,7 +31,7 @@ Knowledge in Information Security Strategy, Risk Assessments, Security Architect
 
 ## 🚀 About Me
 
-Hacker/Penetration Tester | VAPT | Application Security (Offensive) | CTF Player
+Hacker | Penetration Tester | VAPT | Application Security (Offensive) | CTF Player
 "Just a Noob Who Is Trying to Learn New Things"
 
 
