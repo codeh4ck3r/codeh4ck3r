@@ -77,4 +77,4 @@ Hacker | Penetration Tester | VAPT | Application Security (Offensive) | CTF Play
 
 
 
-### I Do Freelance Work, If You Have Requirement Then Please Drop Email sujitsuryawanshi987@gmail.com Or Ping Me On [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
+### I Do Freelance Work, If You Have Requirement Then You Can Drop Email Sujitsuryawanshi987@gmail.com or Ping Me on [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
