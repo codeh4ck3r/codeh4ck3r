@@ -63,5 +63,5 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 
 
 ### Email: sujitsuryawanshi987@gmail.com
-### [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
-### [Twitter](https://twitter.com/_codeh4ck3r)
+### LinkedIn: https://www.linkedin.com/in/codeh4ck3r/
+### Twitter: https://twitter.com/_codeh4ck3r
