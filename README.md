@@ -27,7 +27,7 @@ Good Understanding of Application Security Processes, Standards, Source Code Rev
 
 Hacker | Penetration Tester | Application Security (Offensive) | Source Code Review | CTF Player
 
-"Just a Noob Who Is Trying to Learn New Things"
+"Just a Noob Who Is Trying to Learn New Things Everyday"
 
 
 
@@ -62,4 +62,4 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 
 
 
-### I Do Freelance Work, If You Have Requirement Then You Can Drop Email Sujitsuryawanshi987@gmail.com or Ping Me on [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
+### Email sujitsuryawanshi987@gmail.com or Ping Me on [LinkedIn](https://www.linkedin.com/in/codeh4ck3r/)
