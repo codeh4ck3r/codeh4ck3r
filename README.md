@@ -33,7 +33,7 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codeh4ck3r.github.io/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeh4ck3r/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_codeh4ck3r) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujitsuryawanshi987@gmail.com)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codeh4ck3r.xyz/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeh4ck3r/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_codeh4ck3r) [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujitsuryawanshi987@gmail.com)
 
 
 
@@ -60,11 +60,7 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 - Automating Security Tasks & Workflows
 
 
-### Links
+### Connect Me
 
-#### Email: sujitsuryawanshi987@gmail.com
-#### LinkedIn: https://www.linkedin.com/in/codeh4ck3r/
-#### Twitter: https://twitter.com/_codeh4ck3r
-#### Blog: https://www.codeh4ck3r.xyz/
 #### Mastodon: https://infosec.exchange/@codeh4ck3r
 #### Instagram: https://www.instagram.com/codeh4ck3r.xyz/
