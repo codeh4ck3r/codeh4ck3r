@@ -60,8 +60,11 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 - Automating Security Tasks & Workflows
 
 
-### Social Links
+### Links
 
 #### Email: sujitsuryawanshi987@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/codeh4ck3r/
 #### Twitter: https://twitter.com/_codeh4ck3r
+#### Blog: https://www.codeh4ck3r.xyz/
+#### Mastodon: https://infosec.exchange/@codeh4ck3r
+#### Instagram: https://www.instagram.com/codeh4ck3r.xyz/
