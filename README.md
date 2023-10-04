@@ -25,7 +25,7 @@ Good Understanding of Application Security Processes, Standards, Source Code Rev
 
 ## 🚀 About Me
 
-Hacker | Penetration Tester | Application Security (Offensive) | Source Code Review | CTF Player
+Hacker | Penetration Tester | Application Security (Offensive) | Source Code Review | DevSecOps | CTF Player
 
 "Just a Noob Who Is Trying to Learn New Things Everyday"
 
