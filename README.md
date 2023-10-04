@@ -53,6 +53,8 @@ Hacker | Penetration Tester | Application Security (Offensive) | Source Code Rev
 
 - Thick Client Pentesting
 
+- DevSecOps
+
 - SAST/DAST
 
 - Red Team Engagement 
