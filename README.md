@@ -25,7 +25,7 @@ I Possess Good Understanding and Knowledge of Application Security Processes, Se
 
 ## 🚀 About Me
 
-Hacker | Penetration Tester | Application Security (Offensive) | Source Code Review | DevSecOps | CTF Player
+Hacker | Security Engineer | Application Security (Offensive) | DevSecOps | Threat Modeling
 
 "Just a Noob Who Is Trying to Learn New Things Everyday"
 
