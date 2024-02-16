@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Myself Sujit Suryawanshi and I'm an Informational Security Professional With 5+ Years of Experience in Information Security Including Skills Such as Application Security (Offensive), DevSecOps, Penetration Testing, Threat Modeling, Vulnerability Assessment, Source Code Review. Actively Working in PayPal as Information Security Engineer, Includes Key Responsibilities Such as Penetration Testing of Applications (Web Applications, Mobile Applications, APIs, Network), Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), Integrating and Maintaining DevSecOps Pipeline, etc.
+Myself Sujit Suryawanshi and I'm an Informational Security Professional With 5+ Years of Experience in Information Security Including Skills Such as Application Security (Offensive), DevSecOps, Penetration Testing, Threat Modeling, Vulnerability Assessment, Source Code Review. Actively Working in PayPal as Information Security Engineer, Includes Key Responsibilities Such as Penetration Testing of Applications (Web Applications, Mobile Applications, APIs, Network), Static Application Security Testing (SAST), Threat Modeling, Purple Team Engagement, Strategy Documentation, Source Code Review, DevSecOps, etc.
 
 I Possess Good Understanding and Knowledge of Application Security Processes, Secure SDLC, Secure Coding Principles and Standards, Security Best Practices & Policies, Information Security Strategy, Risk Assessments, Security Architecture, Strategic Documentation, Network Audits, Threat Management, etc.
 
