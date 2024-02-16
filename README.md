@@ -62,7 +62,4 @@ Hacker | Security Engineer | Application Security (Offensive) | DevSecOps | Thre
 - Automating Security Tasks & Workflows
 
 
-### Connect Me
-
-#### Mastodon: https://infosec.exchange/@codeh4ck3r
-#### Instagram: https://www.instagram.com/codeh4ck3r.xyz/
+### Connect Me: [Email](mailto:sujitsuryawanshi987@gmail.com)
