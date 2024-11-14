@@ -59,7 +59,7 @@ Hacker | Application Security | Offensive Security | Product Security | Threat M
 
 - SAST/DAST
 
-- Red Team Engagement 
+- Red/Purple Team Engagement 
 
 - Automating Security Tasks & Workflows
 
