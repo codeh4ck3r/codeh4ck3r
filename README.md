@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Myself Sujit Suryawanshi and I'm an Informational Security Professional With 5+ Years of Experience in Information Security Including Skills Such as Application Security (Offensive), DevSecOps, Penetration Testing, Threat Modeling, Vulnerability Assessment, Source Code Review. Actively Working in PayPal as Information Security Engineer, Includes Key Responsibilities Such as Penetration Testing of Applications (Web Applications, Mobile Applications, APIs, Network), Static Application Security Testing (SAST), Threat Modeling, Purple Team Engagement, Strategy Documentation, Source Code Review, DevSecOps, etc.
+Myself Sujit Suryawanshi, an Information Security Professional with Experience and Knowledge in Information Security Including Skills Such as Application Security (Offensive), Product Security, Penetration Testing, Threat Modeling, Vulnerability Assessment, and Source Code Review. Actively Working in PayPal as Information Security Engineer 3, Includes Key Responsibilities Such as Penetration Testing of Applications (Web Applications, Mobile Applications, APIs, Cloud, PCI), Security Architecture Review, SAST, DAST, Threat Modeling, Purple Team Engagement, Strategy Documentation, Source Code Review, etc.
 
 I Possess Good Understanding and Knowledge of Application Security Processes, Secure SDLC, Secure Coding Principles and Standards, Security Best Practices & Policies, Information Security Strategy, Risk Assessments, Security Architecture, Strategic Documentation, Network Audits, Threat Management, etc.
 
@@ -25,7 +25,7 @@ I Possess Good Understanding and Knowledge of Application Security Processes, Se
 
 ## 🚀 About Me
 
-Hacker | Security Engineer | Application Security (Offensive) | DevSecOps | Threat Modeling
+Hacker | Application Security | Offensive Security | Product Security | Threat Modeling | Security Architecture
 
 "Just a Noob Who Is Trying to Learn New Things Everyday"
 
@@ -41,17 +41,19 @@ Hacker | Security Engineer | Application Security (Offensive) | DevSecOps | Thre
 
 - Web Application Penetration Testing
 
-- Source Code Review
-
 - Mobile Application Penetration Testing
-
-- Threat Modeling
 
 - API Penetration Testing
 
 - Network Penetration Testing
 
 - Thick Client Pentesting
+
+- Source Code Review
+
+- Threat Modeling
+
+- Security Architecture Review
 
 - DevSecOps
 
